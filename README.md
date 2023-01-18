@@ -4,7 +4,7 @@
 
 ### Hello There
 
-I am Ben, a software engineer working in the are since 2013.
+I am Ben, a software engineer working in the area since 2013.
 
 I have experience with fullstack development and currently my tech stack is focused on frontend
 

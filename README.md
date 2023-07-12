@@ -4,9 +4,9 @@
 
 ### Hello There
 
-I am Ben, a software engineer working in the area since 2013.
+I am Ben, software engineer since 2013.
 
-I have experience with fullstack development and currently my tech stack is focused on frontend
+JS/TS and right now focused on React/React Native
 
 <p align="left">
     <img src="https://skillicons.dev/icons?i=ts,js,react,redux,nodejs,postgres,nextjs,jest,graphql,styledcomponents,firebase,github" />

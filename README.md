@@ -6,7 +6,7 @@
 
 I am Ben, software engineer since 2013.
 
-JS/TS and right now focused on React/React Native
+My Stack is based in JS/TS and right now focused on React/React Native
 
 <p align="left">
     <img src="https://skillicons.dev/icons?i=ts,js,react,redux,nodejs,postgres,nextjs,jest,graphql,styledcomponents,firebase,github" />

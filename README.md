@@ -17,4 +17,4 @@ My Stack is based in JS/TS and right now focused on React/React Native
 
 BTW, take a time to check my posts on Medium, this is the last one:
 
-[![Ben Hur Medium](https://github-readme-medium.vercel.app/?username=benhur-martins)](https://medium.com/@benhur-martins)
+[![Ben Hur Medium](https://github-readme-medium-recent-article.vercel.app/medium/@benhur-martins/0)](https://medium.com/@benhur-martins)
